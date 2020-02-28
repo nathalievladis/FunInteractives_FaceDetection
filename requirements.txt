@@ -1,7 +1,7 @@
 numpy
 ipywidgets
 matplotlib
-cv2
+cv2==4.1.2
 skimage
 numpy
 sys
