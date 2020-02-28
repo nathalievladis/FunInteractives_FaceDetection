@@ -5,4 +5,4 @@ cv2
 skimage
 numpy
 sys
-io
+io==2.6
