@@ -3,5 +3,3 @@ ipywidgets
 matplotlib
 opencv-python
 scikit-image
-numpy
-io==2.6
