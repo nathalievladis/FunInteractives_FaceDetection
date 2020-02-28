@@ -1,7 +1,0 @@
-ipywidgets
-io
-PIL
-cv2
-skimage
-numpy
-matplotlib
