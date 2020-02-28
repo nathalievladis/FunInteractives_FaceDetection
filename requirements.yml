@@ -1,11 +1,8 @@
-name: example-environment
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - ipywidgets
-  - io
-  - matplotlib
-  - cv2
-  - skimage
-  - numpy
+numpy
+ipywidgets
+_io
+matplotlib
+cv2
+skimage
+numpy
+sys
