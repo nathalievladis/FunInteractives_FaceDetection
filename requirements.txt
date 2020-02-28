@@ -1,9 +1,7 @@
--m pip:
-  -numpy
-  -ipywidgets
-  -matplotlib
-  -cv2==4.1.2
-  -skimage
-  -numpy
-  -sys
-  -io==2.6
+numpy
+ipywidgets
+matplotlib
+cv2==4.1.2
+skimage
+numpy
+io==2.6
