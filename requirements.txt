@@ -1,6 +1,6 @@
 numpy
 ipywidgets
-_io
+io
 matplotlib
 cv2
 skimage
